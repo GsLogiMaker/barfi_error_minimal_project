@@ -1,0 +1,2 @@
+streamlit==1.26.0
+barfi==0.7.0
